@@ -6,4 +6,5 @@ For those who don't know about the game.In this game you have to choose one of t
 ![image](https://user-images.githubusercontent.com/84078234/124160575-0655f180-daba-11eb-82af-fd7895a9381e.png)
 
 Here the round consists of 3 turns the winner of each turn is shown after each turn and the winner of the round is the one with maximum no of turns won.
+
 Enjoy and all the best for the game...Share with your pals if you like the game...
